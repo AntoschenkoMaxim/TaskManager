@@ -1,0 +1,17 @@
+.btn {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 10px 15px;
+	font-size: 14px;
+	border: none;
+	background-color: #3858D6;
+	color: white;
+	font-weight: 500;
+	cursor: pointer;
+	border-radius: 5px;
+}
+
+.btn__icon {
+	margin-left: 2px;
+}
